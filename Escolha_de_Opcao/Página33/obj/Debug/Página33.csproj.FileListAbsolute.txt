@@ -1,0 +1,11 @@
+H:\LogP\SegundaEtapa\Página33\Página33\bin\Debug\Página33.exe.config
+H:\LogP\SegundaEtapa\Página33\Página33\bin\Debug\Página33.exe
+H:\LogP\SegundaEtapa\Página33\Página33\bin\Debug\Página33.pdb
+H:\LogP\SegundaEtapa\Página33\Página33\obj\Debug\Página33.csproj.AssemblyReference.cache
+H:\LogP\SegundaEtapa\Página33\Página33\obj\Debug\Página33.csproj.SuggestedBindingRedirects.cache
+H:\LogP\SegundaEtapa\Página33\Página33\obj\Debug\Página33.Form1.resources
+H:\LogP\SegundaEtapa\Página33\Página33\obj\Debug\Página33.Properties.Resources.resources
+H:\LogP\SegundaEtapa\Página33\Página33\obj\Debug\Página33.csproj.GenerateResource.cache
+H:\LogP\SegundaEtapa\Página33\Página33\obj\Debug\Página33.csproj.CoreCompileInputs.cache
+H:\LogP\SegundaEtapa\Página33\Página33\obj\Debug\Página33.exe
+H:\LogP\SegundaEtapa\Página33\Página33\obj\Debug\Página33.pdb
